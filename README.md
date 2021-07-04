@@ -1,2 +1,2 @@
 # Desktop-Client
-Desktop Client for CNC Messengnig Service
+Desktop Client for CNC Messaging Service
